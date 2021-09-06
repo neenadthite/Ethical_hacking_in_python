@@ -1,4 +1,4 @@
-## For his wonderful course on Learn Python & Ethical Hacking From Scratch 
+## Credits: Zaid @Zsecurity for wonderful course on Learn Python & Ethical Hacking From Scratch 
 
 link for the course: https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/
 
