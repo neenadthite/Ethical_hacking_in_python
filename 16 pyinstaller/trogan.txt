@@ -4,3 +4,7 @@ Iconfinder.com
 easyicon.net
 To change .exe to trojan extension:
 kali->character->right_to _left->copy_character->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress
+To bypass antivirus:
+upx.github.io
+To check bypass:
+nodistribute.com
