@@ -9,7 +9,8 @@ easyicon.net
 2. Fo Windows #location_of_pyinstaller.exe backdoor.py --onefile --noconsole --icon location_of_icon_file location_of_reverse_backdoor.py
 
 Spoofing file extension:
-kali->character->right_to _left->copy_character->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress
+For Windows: https://unicode-explorer.com/c/202E -> copy->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress #zaid is example
+For kali: character->right_to _left->copy_character->open_txt_file->zaid.exe_\n_zaid-fdp.exe->Cursor@fdp.exe->Paste->Copy->Rename->Paste->Compress #zaid is example
 
 To bypass antivirus:
 upx.github.io
